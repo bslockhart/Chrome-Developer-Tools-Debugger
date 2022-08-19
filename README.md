@@ -9,6 +9,3 @@
 ## Use
 * Tutorial on how to fix mispelled word with debugger. 
 
-
-## 
-*  
